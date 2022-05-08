@@ -1,5 +1,5 @@
 # Profile
-*Self hosted VueJS based Discord like web-profile*
+*based Discord like web-profile*
 <div align="center">
    <img src="https://i.imgur.com/dDioFW4.png" align="center" />
 </div>
