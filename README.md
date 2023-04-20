@@ -69,7 +69,7 @@ Here is a detailed documentation of every configuration parameters:
 
 ## Ressources
 
-<p>Copyright &copy Discord 2022, I do not own any of the Discord assets and these are hosted on Discord's website</p>
+<p>Copyright &copy Discord 2023, I do not own any of the Discord assets and these are hosted on Discord's website</p>
 
 - [`Discord Staff Badge`](https://canary.discord.com/assets/c5b2473c93c340dbe540e120a86a019f.svg) *Disclaimer*: Impersonating Discord Staffs is bad, i cannot be held responsible for any legal confrontation with Discord.
 - [`Discord Certified Moderator Badge`](https://canary.discord.com/assets/955e3c9783043c7080ac202565810fc3.svg)
